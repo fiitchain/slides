@@ -88,11 +88,11 @@ src: ./slides/desired-properties.md
 ---
 
 ---
-src: ./slides/state-machine.md
+src: ./slides/blockchain-finally.md
 ---
 
 ---
-src: ./slides/blockchain-finally.md
+src: ./slides/state-machine.md
 ---
 
 
