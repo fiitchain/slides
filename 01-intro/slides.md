@@ -27,7 +27,7 @@ src: ./slides/intro.md
 src: ./slides/what.md
 ---
 
-<!-- ---
+---
 src: ./slides/emergence.md
 ---
 
@@ -53,12 +53,12 @@ src: ./slides/tech-stack.md
 
 ---
 src: ./slides/cryptography.md
---- -->
+---
 
-<!-- ---
+---
 src: ./slides/why-cryptography.md
---- -->
-<!-- 
+---
+
 ---
 src: ./slides/why-cryptography.md
 ---
@@ -73,10 +73,6 @@ src: ./slides/asym-encryption.md
 
 ---
 src: ./slides/hash-functions.md
----
-
----
-src: ./slides/ecc.md
 ---
 
 ---
@@ -99,9 +95,11 @@ src: ./slides/state-machine.md
 src: ./slides/blockchain-finally.md
 ---
 
+
 ---
 src: ./slides/data-structure.md
 ---
+
 
 ---
 src: ./slides/block.md
@@ -127,4 +125,4 @@ src: ./slides/credits.md
 layout: center
 class: text-center
 src: ./slides/outro.md
---- -->
+---
