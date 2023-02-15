@@ -27,12 +27,7 @@
 
 </div>
 <div>
-<div>
-    <img border="rounded" src="/block.png">
-  </div>
-  <div>
-    <img border="rounded" src="/anime-strawberry.gif">
-  </div>
+  <img border="rounded" src="/block.png">
 </div>
   
 </div>

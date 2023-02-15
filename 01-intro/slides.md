@@ -80,6 +80,10 @@ src: ./slides/ecc.md
 ---
 
 ---
+src: ./slides/simulation.md
+---
+
+---
 src: ./slides/blockchain.md
 ---
 
@@ -118,6 +122,10 @@ src: ./slides/consensus-algos.md
 ---
 
 ---
+src: ./slides/simulation.md
+---
+
+---
 src: ./slides/credits.md
 ---
 
@@ -125,4 +133,14 @@ src: ./slides/credits.md
 layout: center
 class: text-center
 src: ./slides/outro.md
+---
+
+---
+layout: center
+class: text-center
+src: ./slides/so.md
+---
+
+---
+src: ./slides/from-web0.md
 ---
