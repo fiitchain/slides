@@ -45,6 +45,14 @@ S. Haber, S. Stornetta - [How to Timestamp a Digital Document](https://www.anf.
 D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf)
 
 
+# Lesson
+
+- [anders94/blockchain-demo](http://www.datnos.com/bc-demos/public-private-keys/keys.html)
+- [gugger.guru/blockchain-demo](https://gugger.guru/blockchain-demo/#!/blockchain)
+- [blockchaindemo](https://blockchaindemo.io/)
+- [The Blockchain Game](https://www.instructables.com/The-Blockchain-Game/)
+- [Blockchain Explained in 7 simple functions](https://github.com/shanaka-desoysa/notes/blob/e4d938edab81ac62aa1bdf4dc27e6ed1c0f5681c/docs/BlockChain/Blockchain_Explained_in_7_Simple_Functions.ipynb)
+
 # DEV
 
 To start the slide show:
