@@ -114,6 +114,18 @@ src: ./slides/merkle-trees.md
 ---
 
 ---
+src: ./slides/merkle-image.md
+---
+
+---
+src: ./slides/byzantine.md
+---
+
+---
+src: ./slides/byzantine-and-blockchain.md
+---
+
+---
 src: ./slides/general-consensus.md
 ---
 
@@ -122,11 +134,16 @@ src: ./slides/consensus-algos.md
 ---
 
 ---
-src: ./slides/simulation.md
+src: ./slides/blockchain-trilema.md
 ---
 
 ---
 src: ./slides/credits.md
+---
+
+
+---
+src: ./slides/literature.md
 ---
 
 ---

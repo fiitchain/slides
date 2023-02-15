@@ -1,9 +1,7 @@
-# Merkle Trees
+# What is Merkle Tree?
 
 <div grid="~ cols-2 gap-2" m="t-2">
 <div>
-
-## What is Merkle Tree?
 
 - A data structure that allows you to verify the integrity of a large set of data
 
