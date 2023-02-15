@@ -1,6 +1,5 @@
 # Symmetric encryption
 
-
 <div grid="~ cols-2 gap-2" m="t-2">
 <div>
 

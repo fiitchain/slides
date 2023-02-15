@@ -11,6 +11,8 @@
 
 - KodaDot for inspiration
 
+- Roman Bitarovsky for consensus algorithms
+
 - **SubWork hackathon**
 
 </div>

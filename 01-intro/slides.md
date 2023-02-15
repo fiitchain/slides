@@ -130,7 +130,11 @@ src: ./slides/general-consensus.md
 ---
 
 ---
-src: ./slides/consensus-algos.md
+src: ./slides/pow.md
+---
+
+---
+src: ./slides/pos.md
 ---
 
 ---

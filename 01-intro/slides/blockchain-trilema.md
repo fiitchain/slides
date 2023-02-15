@@ -4,7 +4,7 @@
 <div>
 
 
-- The blockchain trilema is a concept that describes the trade-offs between decentralization, security, and scalability.
+- The blockchain trilema is a concept that describes the trade-offs between **decentralization, security, and scalability.**
 
 </div>
   <div>
