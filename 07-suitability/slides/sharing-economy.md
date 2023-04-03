@@ -9,8 +9,6 @@
 - It's possible to create a more trustless and decentralized ecosystem, where users have more control over their data and assets
 
 
-
-
 </div>
   <div>
     <img border="rounded" src="/anime-crazy.gif">

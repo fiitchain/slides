@@ -64,10 +64,6 @@ src: ./slides/sharing-economy.md
 ---
 
 ---
-src: ./slides/asset-sharing.md
----
-
----
 src: ./slides/proof-of-existence.md
 ---
 
