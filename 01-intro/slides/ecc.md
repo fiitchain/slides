@@ -18,3 +18,6 @@ Eliptic curve cryptography is a type of public key cryptography. It is based on 
     <img border="rounded" src="/ecc1.gif">
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

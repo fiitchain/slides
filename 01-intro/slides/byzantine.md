@@ -16,3 +16,6 @@
 - blockchain network involves multiple nodes that must reach consensus on the state of the ledger, even in the presence of malicious actors who may attempt to disrupt the system
 
 </p>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

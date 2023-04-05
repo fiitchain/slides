@@ -6,3 +6,6 @@
 5. The last-created string of bit gold provides the challenge bits for the next-created string.
 6. To verify that Alice is the owner of a particular string of bit gold, Bob checks the unforgeable chain of title in the bit gold title registry.
 7. To assay the value of a string of bit gold, Bob checks and verifies the challenge bits, the proof of work string, and the timestamp.
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

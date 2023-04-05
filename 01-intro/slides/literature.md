@@ -10,3 +10,6 @@
 - D. Chaum - [Blind Signatures for Untraceable Payment](https://taler.net/papers/chaum-blind-signatures.pdf)
 - S. Haber, S. Stornetta - [How to Timestamp a Digital Document](https://www.anf.es/pdf/Haber_Stornetta.pdf)
 - D. Chaum - [Dinning Cryptographers Problem](https://sites.cs.ucsb.edu/~ravenben/classes/595n-s07/papers/dcnet-jcrypt88.pdf)
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

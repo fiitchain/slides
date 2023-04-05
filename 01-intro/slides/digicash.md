@@ -12,3 +12,6 @@
 3. Spend - send payment request to the merchant
 4. Verify & Accept - merchant verifies the payment request and accepts it
 5. Blind signatures - wrap the payment request in a digital envelope.
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

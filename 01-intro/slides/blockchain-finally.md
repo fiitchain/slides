@@ -10,3 +10,7 @@
 - **Consensus** 
   - Which history is the real one?
   - What part of history is final?
+  
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

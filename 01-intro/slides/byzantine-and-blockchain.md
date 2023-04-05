@@ -13,5 +13,8 @@
 
 </p>
   <div>
-    <img border="rounded"  src="/generals.webp" width="500"  >
+    <img border="rounded"  src="/generals copy.png" width="500"  >
+</div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
 </div>

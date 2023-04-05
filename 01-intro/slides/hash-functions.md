@@ -14,3 +14,6 @@
 - **digital signatures** - to prove that the message was sent by the right person
 - **key derivation** - to generate a key from a password
 - **pseudo-random numbers** - to generate a random number
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

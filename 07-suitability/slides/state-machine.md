@@ -9,3 +9,6 @@
   <div>
     <img border="rounded" src="/state-3.png">
   </div>
+  <div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

@@ -14,3 +14,6 @@
     [bitsonblocks](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/)
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

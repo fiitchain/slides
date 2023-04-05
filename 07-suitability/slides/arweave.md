@@ -15,3 +15,7 @@
     ar://sTHc-EK1UcA32wGF1fwD-Tbuc5Cn2Bsup6bwdzUKqlE
   </div>
 </div>
+
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

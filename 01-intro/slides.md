@@ -60,10 +60,6 @@ src: ./slides/why-cryptography.md
 ---
 
 ---
-src: ./slides/why-cryptography.md
----
-
----
 src: ./slides/sym-encryption.md
 ---
 

@@ -20,4 +20,6 @@ secured by cryptography
   <div>
     <img border="rounded" src="/anime-strawberry.gif">
   </div>
+</div><div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
 </div>

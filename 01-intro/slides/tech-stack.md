@@ -22,3 +22,6 @@ Few things to remember:
     <img border="rounded" src="/lucky-star-anime.gif">
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>
