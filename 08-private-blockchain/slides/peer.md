@@ -21,3 +21,6 @@ An endorsing peer is always also a committing peer. The difference is that an en
     <img border="rounded" src="/best-friends-anime-gif.gif">
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

@@ -15,3 +15,6 @@
     (Very serious) Model by [Dave Birch](https://twitter.com/dgwbirch)
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

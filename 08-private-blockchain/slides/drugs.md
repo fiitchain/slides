@@ -18,3 +18,6 @@
 > [Forbes](https://www.forbes.com/sites/sap/2019/10/03/counterfeit-drugs-a-bitter-pill-to-swallow/)
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

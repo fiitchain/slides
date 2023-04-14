@@ -19,3 +19,6 @@
   - Consensus is reached when the endorsement of a transaction is accepted, the ordering was  successful and the execution was valid and committed.
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

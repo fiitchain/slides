@@ -91,16 +91,6 @@ src: ./slides/peer.md
 src: ./slides/composer-vs-fabric.md
 ---
 
-<!-- ---
-src: ./slides/composer-vs-fabric-2.md
---- -->
-
----
-layout: center
-class: text-center
-src: ./slides/interoperability.md
----
-
 ---
 src: ./slides/why-interoperability.md
 ---

@@ -10,9 +10,12 @@
 
 </div>
 <div>
-  <img border="rounded" src="/lp.jpg">
+  <img border="rounded" src="/lp.jpg" width="400">
 
-  <img border="rounded" src="/exchange.gif">
+  <img border="rounded" src="/exchange.gif" width="400">
 </div>
 
+</div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
 </div>

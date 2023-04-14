@@ -9,3 +9,7 @@
 - **Smart Contracts** - The platform should support the execution of  business logic on which the participating  parties have agreed on.
 
 - **Single source of truth** - An immutable ledger that keeps track of all  transactions. Participating parties must be  accountable for transactions they issue on  the network.
+
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

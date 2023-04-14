@@ -18,3 +18,6 @@ Fabric-CA and used by default.
     <img border="rounded" src="/msp.png">
   </div>
 </div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
+</div>

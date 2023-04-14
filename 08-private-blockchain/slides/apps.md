@@ -13,6 +13,9 @@
 
 </div>
   <div>
-    <img border="rounded" src="/apps.png">
+    <img border="rounded" src="/apps.png" width="400">
   </div>
+</div>
+<div class="absolute right-5px bottom-5px">
+<SlideCurrentNo /> / <SlidesTotal />
 </div>
