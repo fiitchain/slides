@@ -15,7 +15,7 @@
 
 </div>
   <div>
-    <img border="rounded" src="/anime-food.gif">
+    <img border="rounded" src="/anime-food.gif" width="420">
   </div>
 </div>
 

@@ -21,7 +21,7 @@
 - Native chaincode is written in Go, NodeJS or Java that is  installed on a node. Native Chaincode is way more  complex compared to HL-Composer.
 
 <div>
-    <img border="rounded" src="/native-fabric.png">
+    <img border="rounded" src="/native-fabric.png" width="420">
 
 
 </div>
