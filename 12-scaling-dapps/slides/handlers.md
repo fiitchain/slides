@@ -9,10 +9,12 @@
 
 ```ts
 const CONTRACT_ADDRESS = '0x...'
-const transferFilter: EvmLogHandlerOptions = {
-  filter: [erc721.events["Transfer(address,address,uint256)"].topic],
-}
-processor.addEvmLogHandler(CONTRACT_ADDRESS, transferFilter, handleTokenTransfer);
+
+processor.addLog({
+    address: [CONTRACT_ADDRESS],
+    topic0: [erc721.events.Transfer.topic],
+    // transaction: true
+})
 ```
 
 
