@@ -5,7 +5,6 @@
 
 ```js
 const { ethers } = require('ethers');
-
 const contractAddress = 'INSERT_CONTRACT_ADDRESS_HERE';
 const abi = [INSERT_CONTRACT_ABI_HERE];
 
@@ -14,16 +13,10 @@ async function getFirst10NFTs() {
   const contract = new ethers.Contract(contractAddress, abi, provider);
 
   const totalSupply = await contract.totalSupply();
-  const nftPromises = [];
-
-  for (let i = 0; i < Math.min(totalSupply, 10); i++) {
-    nftPromises.push(contract.tokenByIndex(i));
-  }
-
-  const nftIds = await Promise.all(nftPromises);
   const nfts = [];
 
-  for (const nftId of nftIds) {
+  for (let i = 0; i < Math.min(totalSupply, 10); i++) {
+    const nftId = await contract.tokenByIndex(i);
     const nft = await contract.getNFT(nftId);
     nfts.push(nft);
   }
@@ -31,11 +24,7 @@ async function getFirst10NFTs() {
   return nfts;
 }
 
-getFirst10NFTs().then((nfts) => {
-  console.log(nfts);
-}).catch((error) => {
-  console.log(error);
-});
+getFirst10NFTs().then(console.log).catch(console.error);
 ```
 
 </div>

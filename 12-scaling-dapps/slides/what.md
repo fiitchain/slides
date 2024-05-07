@@ -6,11 +6,11 @@
 
 <div>
 
-- Open-source NFT marketplace in the Dotsama ecosystem
+- NFT marketplace for generative art
 
-- Multichain powered - Kusama, Basilisk, Moonbeam, Moonriver
+- Multichain powered - Polkadot, Kusama, Base
 
-- Technology agnostic - RMRK strings, runtime pallets, EVM, ink!
+- Technology agnostic - runtime pallets, EVM, ink!
 
 - Bounty based - bringing dev talent to the ecosystem
 

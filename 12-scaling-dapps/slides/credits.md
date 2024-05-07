@@ -9,15 +9,15 @@
 
 - AI for generating images
 
-- **Polkadot Bled mini-conference: Unraveling the future of Web3**
+- **Ethereum Bratislava**
 
-- **06.05.20203** Bled, Slovenia
+- **10.05.20203** Bratislava, Slovakia
 
-- [Login here](https://www.meetup.com/subwork/events/292274713/)
+- [Login here](https://www.ethbratislava.com)
 
 </div>
   <div>
-    <img border="rounded" src="/mini-conf.webp">
+    <img border="rounded" src="/mini-conf.png">
   </div>
 </div>
 
